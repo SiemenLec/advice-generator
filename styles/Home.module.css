@@ -62,7 +62,7 @@
 
 @media only screen and (min-width: 768px) {
   .container {
-    max-width: 60%;
+    max-width: 35rem;
   }
 
   .divider {
